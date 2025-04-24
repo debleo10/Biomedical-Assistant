@@ -1,0 +1,8 @@
+markdown
+bs4
+faiss-cpu
+sentence_transformers
+langgraph
+langchain_groq
+langchain-core
+python-dotenv
